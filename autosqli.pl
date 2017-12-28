@@ -51,7 +51,7 @@ GetOptions(
 		 
 		 die("[-] FAIL\n"); }
 	  }
-	 else { die("[X] Silahkan masukkan target seperti ini :\n http://target..co.li/index.php?id=0+union+select+1,2,1337,3\n");	 }
+	 else { die("[X] Silahkan masukkan target seperti ini:\nhttp://target..co.li/index.php?id=0+union+select+1,2,1337,3\n");	 }
 
 
 	sub cr0t {
