@@ -21,6 +21,8 @@ system(($^O eq 'MSWin32') ? 'cls' : 'clear');
               Author: 4WSec
            $ Anon Cyber Team $
       Automated SQL injection Exploit
+      
+      
     };
 
 GetOptions(
